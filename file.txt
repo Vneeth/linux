@@ -1,5 +1,2 @@
 Hello
 Line 2 - OK
-Line 3 - BUG
-Line 5 - OK
-
